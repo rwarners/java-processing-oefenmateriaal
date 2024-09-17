@@ -1,0 +1,14 @@
+<p>Dit is geen toets, maar wel een manier om te oefenen en te kijken of
+je de stof snapt. Je eigen Cheat sheet kun je gebruiken en je mag ook
+altijd dingen (op)zoeken. Als je vast zit, vraag dan de docent of
+klasgenoot (of sla even over)</p>
+<h3 id="opdracht-1a">Opdracht 1a</h3>
+<p>Print het woord “warm” als de temperatuur hoger is dan 25 graden,
+maar lager dan 30.</p>
+<p>De volgende code is alvast gegeven:</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode java"><code class="sourceCode java"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dt">int</span> temperatuurCelsius <span class="op">=</span> <span class="dv">30</span><span class="op">;</span> </span></code></pre></div>
+<h3 id="opdracht-1b">Opdracht 1b</h3>
+<p>Pas de code van 1a aan: als het warmer is dan 30 graden print dan
+“heet”. In alle andere gevalle print dan de temperatuur zoals dit
+voorbeeld: “Het is nu 10 graden” */</p>
